@@ -1434,4 +1434,17 @@
 			<ConfigFile>benext/plugindimmer.xml</ConfigFile>
 		</Product>
 	</Manufacturer>
+	<Manufacturer> 
+		<Id>3b</Id> 
+		<Name>Schlage</Name> 
+		<Product> 
+			<Reference> 
+				<Type>634b</Type> 
+				<Id>5044</Id> 
+			</Reference> 
+			<Model>BE369</Model> 
+			<Label lang="en">Home Keypad Deadbolt</Label> 
+			<ConfigFile>schlage/be369.xml</ConfigFile> 
+		</Product> 
+	</Manufacturer>
 </Manufacturers>
